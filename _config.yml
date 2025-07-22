@@ -29,7 +29,7 @@ linkedin_username: ahmed-khaled-17s
 github_username:  moghazy17
 
 # Build settings
-theme: minimal
+theme: minima
 plugins:
   - jekyll-feed
 
